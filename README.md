@@ -1,5 +1,4 @@
-# pandas-challenge
-<pre>
+
 <p>The Heroes of Pymoli file contains an Analysis of Sales Data of optionally purchased items 
 within the free-to-play game Heroes of Pymoli.<p /> 
 <ul>
@@ -17,4 +16,4 @@ analyze purchase count, average purchase price, total purchase value, and averag
 -<b>Most Profitable Items</b> identifies the 5 most profitable items by total purchase value.
 </ul>
 Heroes of Pymoli Folder contains the jupyter notebook file which reads from the csv within the Resources Folder. 
-</pre>
+
