@@ -1,5 +1,5 @@
 
-<p>The Heroes of Pymoli file contains an Analysis of Sales Data of optionally purchased items 
+<p>Heroes of Pymoli file is an analysis of sales data of in-game purchases
 within the free-to-play game Heroes of Pymoli.<p /> 
 <ul>
 <li><b>Purchasing Analysis</b> includes the total number of items available for purchase, the average 
