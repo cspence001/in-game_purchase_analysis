@@ -1,4 +1,4 @@
-#in-game_purchase_analysis
+<b>#in-game_purchase_analysis
 
 <p>Heroes of Pymoli is an analysis of sales data of in-game purchases
 within the free-to-play game Heroes of Pymoli.<p /> 
