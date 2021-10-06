@@ -15,5 +15,4 @@ analyze purchase count, average purchase price, total purchase value, and averag
 <li><b>Most Profitable Items</b> identifies the 5 most profitable items by total purchase value.
 </ul>
 
-Heroes of Pymoli Folder contains the jupyter notebook file which reads from the csv within the Resources Folder. 
 
