@@ -16,4 +16,4 @@ analyze purchase count, average purchase price, total purchase value, and averag
 <li><b>Most Profitable Items</b> identifies the 5 most profitable items by total purchase value.
 </ul>
 
-
+<a href="https://github.com/cspence001/in-game_purchase_analysis/blob/main/HeroesOfPymoli/HeroesOfPymoli.ipynb">notebook analysis</a>
